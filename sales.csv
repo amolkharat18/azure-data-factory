@@ -1,0 +1,11 @@
+OrderID,ProductID,CustomerName,OrderDate,Quantity,UnitPrice,TotalAmount,Region
+1001,P-01,John Smith,2023-01-05,2,15.50,31.00,North America
+1002,P-03,Jane Doe,2023-01-06,1,45.00,45.00,Europe
+1003,P-02,Peter Jones,2023-01-06,5,10.00,50.00,Asia
+1004,P-01,Alice Williams,2023-01-07,3,15.50,46.50,North America
+1005,P-04,Robert Brown,2023-01-08,2,75.25,150.50,Europe
+1006,P-03,Mary Garcia,2023-01-09,4,45.00,180.00,North America
+1007,P-05,James Miller,2023-01-10,1,120.00,120.00,Asia
+1008,P-02,Susan Davis,2023-01-11,6,10.00,60.00,Europe
+1009,P-04,Joseph Martinez,2023-01-12,3,75.25,225.75,North America
+1010,P-01,Patricia Wilson,2023-01-13,1,15.50,15.50,Europe
