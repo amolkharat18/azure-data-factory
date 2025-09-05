@@ -1,0 +1,6 @@
+OrderID,ProductID,CustomerName,OrderDate,Quantity,UnitPrice,TotalAmount,Region
+1011,P-05,Michael Wilson,2023-04-01,3,120.00,360.00,Asia
+1012,P-01,Sarah Chen,2023-04-02,1,15.50,15.50,North America
+1013,P-03,David Lee,2023-04-03,2,45.00,90.00,Europe
+1014,P-02,Linda Scott,2023-04-04,4,10.00,40.00,North America
+1015,P-04,Mark Evans,2023-04-05,1,75.25,75.25,Asia
